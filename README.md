@@ -82,12 +82,3 @@ Establish a direct connection between the Intel NUC and LeoRover using an Ethern
 
 ### Communication Testing
 Test the communication link between the NUC and LeoRover by sending commands and receiving data. Verify the connectivity and data exchange for smooth interaction between the devices.
-
-
-This comprehensive guide provides step-by-step instructions for assembling LeoRover and integrating its software components, enabling users to understand and implement each aspect effectively.
-
-Feel free to navigate through each section using the table of contents and follow the instructions to assemble LeoRover and integrate its software seamlessly.
-
-For any inquiries or support, contact [Your Contact Information/Support Email].
-
-Happy exploring LeoRover! 🤖🚀
