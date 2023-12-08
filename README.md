@@ -44,35 +44,45 @@ Welcome to the LeoRover Assembly and Software Integration Guide! This comprehens
 
 ---
 
-## Controlling Robot with ROS
-... (Add detailed instructions for controlling LeoRover using ROS)
+## Controlling Robot with ROS and ROS2
 
----
+### ROS Noetic Control
+Harness the power of ROS Noetic to command LeoRover using predefined ROS topics and commands. Learn how to manipulate LeoRover's movements, observe its behavior through ROS topics, and interact with its functionalities via ROS commands.
 
-## Steering with Joystick
-... (Add detailed instructions for controlling LeoRover using a PS4 controller)
+### Topic Observation
+Monitor and analyze ROS topics to gain insights into LeoRover's behavior and responses. Observe the various topics published by LeoRover to understand its state and environment.
 
----
+## PS4 Joystick Control
 
-## Following ARTag
-... (Add detailed instructions for LeoRover to follow an ARTag)
+### Joystick Integration
+Integrate a PlayStation 4 (PS4) joystick with LeoRover's movement commands via ROS. Configure the joystick settings and map its controls to LeoRover's motions. Learn the step-by-step process to use the PS4 joystick to navigate LeoRover effectively.
 
----
+## ARTag Following
 
-## LeoOS for ROS2
-... (Add detailed instructions for setting up LeoRover with Ubuntu 22.04 and ROS2)
+### Application Demonstration
+Explore LeoRover's capability to track and follow an ARTag using pre-installed ROS packages. Witness a demonstration showcasing LeoRover's ability to recognize and pursue an ARTag as a target.
 
----
+## ROS2 Integration
+
+### ROS2 Installation
+Transition smoothly from ROS1 to ROS2 by installing ROS2 Humble. Follow detailed steps to install ROS2 Humble and verify its functionality using various ROS2 commands and tests.
 
 ## Setting Up Intel NUC
-... (Add detailed instructions for installing Ubuntu 22.04 and ROS2 on the Intel NUC and connecting it with LeoRover)
 
----
+### Ubuntu Installation
+Install Ubuntu 22.04 on the Intel NUC by downloading and flashing the Ubuntu image onto a USB drive. Step-by-step guidance provided for setting up Ubuntu on the NUC.
 
-## Additional Resources and Support
-... (Provide links to additional resources, support contacts, or troubleshooting guides if available)
+### ROS2 Humble Installation
+Install ROS2 Humble on the Intel NUC. Set up ROS2 sources, install ROS2 packages, and validate the installation to ensure a seamless transition from ROS1 to ROS2.
 
----
+### Connecting NUC with LeoRover
+
+### Ethernet Connection
+Establish a direct connection between the Intel NUC and LeoRover using an Ethernet cable. Learn how to set up the communication link between the NUC and LeoRover.
+
+### Communication Testing
+Test the communication link between the NUC and LeoRover by sending commands and receiving data. Verify the connectivity and data exchange for smooth interaction between the devices.
+
 
 This comprehensive guide provides step-by-step instructions for assembling LeoRover and integrating its software components, enabling users to understand and implement each aspect effectively.
 
